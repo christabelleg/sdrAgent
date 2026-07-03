@@ -6,13 +6,6 @@ This project is an AI-powered SDR recommendation agent that retrieves prospect a
 
 The project demonstrates API integration, workflow automation, and LLM orchestration for sales operations.
 
-## Architecture
-
-Notion API
-Notion Database (Prospects & Activity)
-LLM Recommendation Engine
-Recommended SDR Actions
-
 ## Notion Database
 
 This project uses the Notion API as its primary data source.
