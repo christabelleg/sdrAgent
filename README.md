@@ -8,7 +8,7 @@ The project demonstrates API integration, workflow automation, and LLM orchestra
 
 ## Notion Database
 
-This project uses the Notion API as its primary data source.
+This project uses the Notion API as the primary data source, treating a Notion database as a lightweight CRM to store prospect information and AI-generated SDR recommendations.
 
 The agent reads prospect information from a Notion database, processes each record, and writes AI-generated recommendations back into Notion.
 
