@@ -8,20 +8,10 @@ The project demonstrates API integration, workflow automation, and LLM orchestra
 
 ## Architecture
 
-Python Application
-        │
-        ▼
 Notion API
-        │
-        ▼
 Notion Database (Prospects & Activity)
-        │
-        ▼
 LLM Recommendation Engine
-        │
-        ▼
 Recommended SDR Actions
-
 
 ## Notion Database
 
