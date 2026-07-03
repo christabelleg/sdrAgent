@@ -1,4 +1,4 @@
-Full project on Notion: https://caramel-room-ed9.notion.site/Sales-Automated-Pipeline-38f86c98b25280dabbdac5fb6f8400a0?source=copy_link
+Full project: https://caramel-room-ed9.notion.site/Sales-Automated-Pipeline-38f86c98b25280dabbdac5fb6f8400a0?source=copy_link
 
 ## Overview
 
